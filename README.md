@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+- 🔭 I’m currently working on AKVJ, Edison Python Scripts, 11ty templates, AKWF2 Free or AKWT Free well see.
+- 🌱 I’m currently learning Python / IT Sec
+- 🤔 I’m looking for help with Edison Python Scripts and fixing the Stubs
+
 <!--
 **KristofferKarlAxelEkstrand/KristofferKarlAxelEkstrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
