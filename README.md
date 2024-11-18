@@ -6,10 +6,10 @@
 
 ### 🌋 Stuff I do
 
-- Web Development
-- User Experience
-- Visual Design
-- Sound Design
+- 💾 Web Development
+- 👼 User Experience
+- 👀 Visual Design
+- 🙉 Sound Design
 
 ### 🔪 Languages I use
 
