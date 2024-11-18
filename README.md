@@ -11,7 +11,7 @@
 - Visual Design
 - Sound Design
 
-### Languages I use
+### 🔪 Languages I use
 
 - ⭐ JavaScript
 - 🐍 Python
