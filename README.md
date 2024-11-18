@@ -1,10 +1,10 @@
-## Hi there 👋
-
+## Hi 👋
 
 - 🔭 I’m currently working on AKVJ, Edison Python Scripts, 11ty templates, AKWF2 Free or AKWT Free (we'll see).
 - 🌱 I’m currently learning Python / IT Sec
 - 🤔 Thinking about taking over the stubs for Edison scripting.
 
+### 🌋 Stuff
 
 - ⭐ JavaScript
 - 🐍 Python
