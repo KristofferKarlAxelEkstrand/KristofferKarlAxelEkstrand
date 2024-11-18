@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python / IT Sec
 - 🤔 Thinking about taking over the stubs for Edison scripting.
 
-### 🌋 Stuff
+### 🌋 Stuff I'm into
 
 - ⭐ JavaScript
 - 🐍 Python
