@@ -4,7 +4,14 @@
 - 🌱 I’m currently learning Python / IT Sec
 - 🤔 Thinking about taking over the stubs for Edison scripting.
 
-### 🌋 Stuff I'm into
+### 🌋 Stuff I do
+
+- Web Development
+- User Experience
+- Visual Design
+- Sound Design
+
+### Languages and that
 
 - ⭐ JavaScript
 - 🐍 Python
