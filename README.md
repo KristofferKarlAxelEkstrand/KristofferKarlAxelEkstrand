@@ -1,9 +1,17 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on AKVJ, Edison Python Scripts, 11ty templates, AKWF2 Free or AKWT Free well see.
+- 🔭 I’m currently working on AKVJ, Edison Python Scripts, 11ty templates, AKWF2 Free or AKWT Free (we'll see).
 - 🌱 I’m currently learning Python / IT Sec
-- 🤔 I’m looking for help with Edison Python Scripts and fixing the Stubs
+- 🤔 Thinking about taking over the stubs for Edison scripting.
+
+- ⭐ JavaScript
+- 🐍 Python
+- 🔗 HyperText Markup Language
+- 🍂 Cascading Style Sheets
+- 🌐 PHP
+- 👓 C#
+
 
 <!--
 **KristofferKarlAxelEkstrand/KristofferKarlAxelEkstrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
