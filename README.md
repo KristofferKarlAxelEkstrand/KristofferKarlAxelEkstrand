@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning Python / IT Sec
 - 🤔 Thinking about taking over the stubs for Edison scripting.
 
+
 - ⭐ JavaScript
 - 🐍 Python
 - 🔗 HyperText Markup Language
