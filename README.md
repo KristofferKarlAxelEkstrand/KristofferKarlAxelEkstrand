@@ -1,7 +1,9 @@
 ## Hi 👋
 
+- 🏂 Alot of e-commerce stuff, lately shopify themes. FB ads, tracking etc, marketing etc.
 - 🔭 I’m currently working on AKVJ, Edison Python Scripts, 11ty templates, AKWF2 Free or AKWT Free (we'll see).
 - 🌱 I’m currently learning Python / IT Sec
+- 🫀 Want to do more 8-bit stuff.
 - 🤔 Thinking about creativity.
 
 ### 🌋 Stuff I do
@@ -22,7 +24,7 @@
 
 ### 👾 Links
 
-- [Kristoffer Ekstrand Dot S E](https://kristofferekstrand.se/)
+- [kristofferekstrand.se](https://kristofferekstrand.se/)
 
 <!--
 **KristofferKarlAxelEkstrand/KristofferKarlAxelEkstrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
