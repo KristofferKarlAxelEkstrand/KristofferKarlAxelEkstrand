@@ -15,12 +15,13 @@
 
 ### 🔪 Languages I use
 
-- ⭐ JavaScript
-- 🐍 Python
-- 🔗 HyperText Markup Language
-- 🍂 Cascading Style Sheets
+- ⭐ JavaScript (JS)
+- 🔗 HyperText Markup Language (HTML)
+- 🎨 Cascading Style Sheets (CSS)
 - 🌐 PHP
+- 🐍 Python
 - 👓 C#
+- 🍂 C
 
 ### 🧪 Work
 - [Grand Public](https://www.grandpublic.se/)
