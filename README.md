@@ -26,7 +26,7 @@
 - [Grand Public](https://www.grandpublic.se/) Reach out and let’s create something together!
 
 ### 👾 Links
-- [kristofferekstrand.se](https://kristofferekstrand.se/)
+- [kristofferekstrand.se](https://kristofferekstrand.se/) - Personal website
 - [musikapparaten.com/](https://musikapparaten.se) - Website
 - [musikapparaten.com/](https://musikapparaten.com) - User portal
 - [adventurekid.se](https://www.adventurekid.se) - Music project
