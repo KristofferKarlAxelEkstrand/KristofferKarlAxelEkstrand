@@ -24,7 +24,7 @@
 - 🍂 C
 
 ### 🧪 Work
-- [Grand Public](https://www.grandpublic.se/)
+- [Grand Public](https://www.grandpublic.se/) Reach out and let’s create something together!
 
 ### 👾 Links
 - [kristofferekstrand.se](https://kristofferekstrand.se/)
