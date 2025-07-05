@@ -27,7 +27,7 @@
 - [kristofferekstrand.se](https://kristofferekstrand.se/)
 
 
-[![KristofferKarlAxelEkstrand's GitHub stats](https://github-readme-stats.vercel.app/api?username=KristofferKarlAxelEkstrand)](https://github.com/KristofferKarlAxelEkstrand/github-readme-stats)
+[![KristofferKarlAxelEkstrand's GitHub stats](https://github-readme-stats.vercel.app/api?username=KristofferKarlAxelEkstrand)](https://github.com/KristofferKarlAxelEkstrand/)
 
 
 <!--
