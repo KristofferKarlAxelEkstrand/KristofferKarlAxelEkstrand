@@ -22,12 +22,13 @@
 - 🌐 PHP
 - 👓 C#
 
-### 👾 Links
-
-- [kristofferekstrand.se](https://kristofferekstrand.se/)
-
 ### 🧪 Work
 - [Grand Public](https://www.grandpublic.se/)
+
+### 👾 Links
+- [kristofferekstrand.se](https://kristofferekstrand.se/)
+
+
 
 
 
