@@ -1,8 +1,7 @@
 ## Hi 👋
 
-- 🏂 Alot of e-commerce stuff, lately shopify themes. FB ads, tracking etc, marketing etc.
-- 🔭 I’m currently working on AKVJ, Edison Python Scripts, 11ty templates, AKWF2 Free or AKWT Free (we'll see).
-- 🌱 I’m currently learning Python / IT Sec
+- 🏂 Alot of e-commerce stuff, lately shopify themes. FB ads, tracking etc.
+- 🔭 I’m currently working on AKVJ, Edison Python Scripts, AKWF2 Free or AKWT Free (we'll see).
 - 🫀 Want to do more 8-bit stuff.
 - 🤔 Thinking about creativity.
 
