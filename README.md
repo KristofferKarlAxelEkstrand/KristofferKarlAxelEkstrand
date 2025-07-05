@@ -27,10 +27,10 @@
 
 ### 👾 Links
 - [kristofferekstrand.se](https://kristofferekstrand.se/)
-- [adventurekid.se](https://www.adventurekid.se/)
-- [musikapparaten.com/](https://musikapparaten.se/) - Website
-- [musikapparaten.com/](https://musikapparaten.com/) - User portal
-
+- [musikapparaten.com/](https://musikapparaten.se) - Website
+- [musikapparaten.com/](https://musikapparaten.com) - User portal
+- [adventurekid.se](https://www.adventurekid.se) - Music project
+- [karlaxel.se](https://karlaxel.se) - Music project
 
 
 
