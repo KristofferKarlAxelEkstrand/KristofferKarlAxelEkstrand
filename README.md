@@ -27,6 +27,9 @@
 
 ### 👾 Links
 - [kristofferekstrand.se](https://kristofferekstrand.se/)
+- [adventurekid.se](https://www.adventurekid.se/)
+- [musikapparaten.com/](https://musikapparaten.se/) - Website
+- [musikapparaten.com/](https://musikapparaten.com/) - User portal
 
 
 
