@@ -21,7 +21,7 @@
 - 🐍 Python
 - 👓 C# (Seldom)
 - 🍂 C (Rarely)
-- ☕ Java (Almost never used these days)
+- ☕ Java (Almost never these days)
 
 ### 🧪 Work: [Grand Public](https://www.grandpublic.se/)
 
