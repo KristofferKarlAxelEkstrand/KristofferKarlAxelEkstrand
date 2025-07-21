@@ -23,9 +23,11 @@
 - 🍂 C (Rarely)
 - ☕ Java (Almost never used these days)
 
-### 🧪 Work
+### 🧪 Work: [Grand Public](https://www.grandpublic.se/)
 
-- [Grand Public](https://www.grandpublic.se/) Reach out and let’s create something together!
+We are a creative brand agency with an in-house design studio, digital lab, communications hub and new business incubator.
+
+Reach out and let’s create something together!
 
 ### 👾 Links
 
