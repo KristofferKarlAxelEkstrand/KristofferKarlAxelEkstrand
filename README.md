@@ -25,7 +25,7 @@
 
 ### 🧪 Work: [Grand Public](https://www.grandpublic.se/)
 
-We are a creative brand agency with an in-house design studio, digital lab, communications hub and new business incubator.
+We are a creative brand agency with an in-house design studio, **digital lab**, communications hub and new business incubator.
 
 Reach out and let’s create something together!
 
