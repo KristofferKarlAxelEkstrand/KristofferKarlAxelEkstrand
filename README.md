@@ -2,8 +2,8 @@
 
 - 🏂 Mostly e-commerce stuff, some offline DSP, lately shopify themes. FB ads, tracking etc.
 - 🔭 Currently exploring projects like AKVJ, developing Edison Python Scripts, and considering releasing AKWF2 Free or AKWT Free (time will tell!).
-- 🫀 Want to do more 8-bit stuff.
-- 🤔 Thinking about creativity.
+- 🫀 Into making chiptune, 8-bit music, and bitpop.
+- 🏔️ Exploring new ways to be creative.
 
 ### 🌋 Stuff I do
 
