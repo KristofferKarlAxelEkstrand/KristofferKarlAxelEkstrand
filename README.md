@@ -36,3 +36,17 @@ Reach out and let’s create something together!
 - [musikapparaten.com](https://musikapparaten.com) - User portal
 - [adventurekid.se](https://www.adventurekid.se) - Music project
 - [karlaxel.se](https://karlaxel.se) - Music project
+
+### 🥫 Open sauce
+
+#### [AKWF-FREE](https://github.com/KristofferKarlAxelEkstrand/AKWF-FREE)
+
+A free, open-source collection of waveforms for audio synthesis and music production.
+
+#### [Edison Python Scripts](https://github.com/KristofferKarlAxelEkstrand/Edison-Python-Scripts)
+
+Handy scripts to extend and automate workflows in FL Studio's Edison audio editor.
+
+#### [AKVJ](https://github.com/KristofferKarlAxelEkstrand/AKVJ)
+
+Tools and resources for creative coding and visual performance.
