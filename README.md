@@ -1,7 +1,7 @@
 ## Hi 👋
 
 - 🏂 Mostly e-commerce stuff, some offline DSP, lately shopify themes. FB ads, tracking etc.
-- 🔭 I’m currently working on AKVJ, Edison Python Scripts, AKWF2 Free or AKWT Free (we'll see).
+- 🔭 Currently exploring projects like AKVJ, developing Edison Python Scripts, and considering releasing AKWF2 Free or AKWT Free (time will tell!).
 - 🫀 Want to do more 8-bit stuff.
 - 🤔 Thinking about creativity.
 
@@ -19,8 +19,9 @@
 - 🎨 Cascading Style Sheets (CSS)
 - 🌐 PHP
 - 🐍 Python
-- 👓 C#
-- 🍂 C
+- 👓 C# (Seldom)
+- 🍂 C (Rarely)
+- ☕ Java (Almost never used these days)
 
 ### 🧪 Work
 
