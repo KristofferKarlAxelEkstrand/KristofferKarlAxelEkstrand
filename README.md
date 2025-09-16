@@ -19,6 +19,7 @@
 - 🎨 Cascading Style Sheets (CSS)
 - 🌐 PHP
 - 🐍 Python
+- 🔷 C++ (Rarely)
 - 👓 C# (Seldom)
 - 🍂 C (Rarely)
 - ☕ Java (Almost never these days)
