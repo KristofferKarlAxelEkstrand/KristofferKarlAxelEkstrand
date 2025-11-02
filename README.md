@@ -1,5 +1,11 @@
 # Hi 👋
 
+I'm Kristoffer Ekstrand, a creative technologist working across code, graphics, text, and sound/music. You can call me Kristoffer or Toffer — I added all my middle names at some point and now I'm kind of stuck with them, but Kristoffer is my name.
+
+## Some kind of overview
+
+### Random things
+
 - 🏂 Mostly e-commerce stuff, some offline DSP, lately shopify themes. FB ads, tracking etc.
 - 🔭 Currently exploring projects like AKVJ, developing Edison Python Scripts, and considering releasing AKWF2 Free or AKWT Free (time will tell!).
 - 🫀 Into making chiptune, 8-bit music, and bitpop.
