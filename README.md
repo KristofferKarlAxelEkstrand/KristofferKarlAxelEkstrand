@@ -46,6 +46,8 @@ A free, open-source collection of waveforms for audio synthesis and music produc
 
 ### [Mighty Morphin Mathemagical Wavetables](https://github.com/KristofferKarlAxelEkstrand/mighty-morphin-mathemagical-wavetables)
 
+A Python-based project for generating synthesizer wavetables using mathematics, designed to welcome first-time open-source contributors. Explore practical applications of trigonometric functions (sine, cosine) and radians while learning data manipulation and waveform synthesis. The project is optimized for AI-assisted development and includes a fully configured VS Code workspace for an excellent developer experience. Perfect for anyone interested in the intersection of audio synthesis, DSP, programming, and mathematics.
+
 ### [Edison Python Scripts](https://github.com/KristofferKarlAxelEkstrand/Edison-Python-Scripts)
 
 Handy scripts to extend and automate workflows in FL Studio's Edison audio editor.
