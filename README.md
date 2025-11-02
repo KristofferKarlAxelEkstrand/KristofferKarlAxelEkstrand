@@ -1,4 +1,4 @@
-## Hi 👋
+# Hi 👋
 
 - 🏂 Mostly e-commerce stuff, some offline DSP, lately shopify themes. FB ads, tracking etc.
 - 🔭 Currently exploring projects like AKVJ, developing Edison Python Scripts, and considering releasing AKWF2 Free or AKWT Free (time will tell!).
