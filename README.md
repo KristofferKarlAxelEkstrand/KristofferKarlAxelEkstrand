@@ -43,6 +43,8 @@ Reach out and let’s create something together!
 
 A free, open-source collection of waveforms for audio synthesis and music production.
 
+### [Mighty Morphin Mathemagical Wavetables](https://github.com/KristofferKarlAxelEkstrand/mighty-morphin-mathemagical-wavetables)
+
 #### [Edison Python Scripts](https://github.com/KristofferKarlAxelEkstrand/Edison-Python-Scripts)
 
 Handy scripts to extend and automate workflows in FL Studio's Edison audio editor.
