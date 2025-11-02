@@ -38,18 +38,18 @@ Reach out and let’s create something together!
 - [adventurekid.se](https://www.adventurekid.se) - Music project
 - [karlaxel.se](https://karlaxel.se) - Music project
 
-### 🥫 Open sauce
+## 🥫 Open sauce
 
-#### [AKWF-FREE](https://github.com/KristofferKarlAxelEkstrand/AKWF-FREE)
+### [AKWF-FREE](https://github.com/KristofferKarlAxelEkstrand/AKWF-FREE)
 
 A free, open-source collection of waveforms for audio synthesis and music production.
 
 ### [Mighty Morphin Mathemagical Wavetables](https://github.com/KristofferKarlAxelEkstrand/mighty-morphin-mathemagical-wavetables)
 
-#### [Edison Python Scripts](https://github.com/KristofferKarlAxelEkstrand/Edison-Python-Scripts)
+### [Edison Python Scripts](https://github.com/KristofferKarlAxelEkstrand/Edison-Python-Scripts)
 
 Handy scripts to extend and automate workflows in FL Studio's Edison audio editor.
 
-#### [AKVJ](https://github.com/KristofferKarlAxelEkstrand/AKVJ)
+### [AKVJ](https://github.com/KristofferKarlAxelEkstrand/AKVJ)
 
 Tools and resources for creative coding and visual performance.
