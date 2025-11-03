@@ -1,6 +1,11 @@
 # Hi 👋
 
-I'm Kristoffer Ekstrand, from sviiiden, a creative technologist working across code, graphics, text, and sound/music. You can call me Kristoffer or Toffer - I added all my middle names at some point and now I'm kind of stuck with them, but Kristoffer is my name.
+I'm Kristoffer Ekstrand — a creative technologist working across code, graphics, text and sound/music. You can call me Kristoffer or Toffer. I added a few middle names at some point and now I'm kind of stuck with them, but Kristoffer works just fine.
+
+## Quick links
+
+- Projects: AKWF-FREE · [Mighty Morphin Mathemagical Wavetables](https://github.com/KristofferKarlAxelEkstrand/mighty-morphin-mathemagical-wavetables) · Edison Python Scripts · AKVJ
+- Work: Grand Public — creative brand agency
 
 ## Some kind of overview
 
