@@ -4,8 +4,13 @@ I'm Kristoffer Ekstrand - project manager and a creative technologist working ac
 
 ## Quick links
 
-- Projects: [AKWF-FREE](https://github.com/KristofferKarlAxelEkstrand/AKWF-FREE) · [Mighty Morphin Mathemagical Wavetables](https://github.com/KristofferKarlAxelEkstrand/mighty-morphin-mathemagical-wavetables) · Edison Python Scripts · [AKVJ](https://github.com/KristofferKarlAxelEkstrand/AKVJ)
-- Work: [Grand Public](https://www.grandpublic.se/) (creative brand agency)
+- Projects:
+  - [AKWF-FREE](https://github.com/KristofferKarlAxelEkstrand/AKWF-FREE)
+  -  [Mighty Morphin Mathemagical Wavetables](https://github.com/KristofferKarlAxelEkstrand/mighty-morphin-mathemagical-wavetables)
+  -  Edison Python Scripts
+  -  [AKVJ](https://github.com/KristofferKarlAxelEkstrand/AKVJ)
+- Work:
+  - [Grand Public](https://www.grandpublic.se/) (creative brand agency)
 
 ## Some kind of overview
 
